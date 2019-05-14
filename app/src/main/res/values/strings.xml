@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practice</string>
+    <string name="sign_in">Sign In</string>
+    <string name="name">Name</string>
+    <string name="pass">Password</string>
+    <string name="log_in">Log In</string>
+</resources>
